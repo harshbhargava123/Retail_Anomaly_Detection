@@ -10,16 +10,16 @@ This solution provides **automated anomaly detection** for retail operations usi
 - **Automated Monitoring**: One-click execution enables scheduled, hands-off monitoring
 - **Actionable Intelligence**: Clear visualizations and categorized anomalies (above/below expected ranges)
 
-## Dataset Used
-
-- Dunnhumby - The Complete Journey dataset from Kaggle has been used to simulate the solution.
-- Link to Dataset - https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey/data
-
-## Link to HTML Rendered Databricks Notebooks (For Output Visualization)
+### Link to HTML Rendered Databricks Notebooks (For Output Visualization)
 
 - Exploration Notebook - https://harshbhargava123.github.io/Retail_Anomaly_Detection/EDA.html
  
 - Production Notebook - https://harshbhargava123.github.io/Retail_Anomaly_Detection/
+
+## Dataset Used
+
+- Dunnhumby - The Complete Journey dataset from Kaggle has been used to simulate the solution.
+- Link to Dataset - https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey/data
 
 ### About Dataset
 This dataset contains household level transactions over two years from a group of 2,500 households who are frequent shoppers at a retailer. It contains all of each household’s purchases, not just those from a limited number of categories. 
