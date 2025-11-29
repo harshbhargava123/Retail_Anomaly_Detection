@@ -15,6 +15,12 @@ This solution provides **automated anomaly detection** for retail operations usi
 - Dunnhumby - The Complete Journey dataset from Kaggle has been used to simulate the solution.
 - Link to Dataset - https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey/data
 
+## Link to HTML Rendered Databricks Notebooks (For Output Visualization)
+
+- Exploration Notebook - https://harshbhargava123.github.io/Retail_Anomaly_Detection/EDA.html
+ 
+- Production Notebook - https://harshbhargava123.github.io/Retail_Anomaly_Detection/
+
 ### About Dataset
 This dataset contains household level transactions over two years from a group of 2,500 households who are frequent shoppers at a retailer. It contains all of each household’s purchases, not just those from a limited number of categories. 
 For certain households, demographic information as well as direct marketing contact history are included. Following are the details for the available tables:
