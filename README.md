@@ -4,7 +4,14 @@
 
 This solution provides **automated anomaly detection** for retail operations using advanced time-series forecasting. It identifies unusual patterns in sales, discounts, and promotional activities to help leadership make data-driven decisions and quickly respond to business irregularities.
 
+### Business Value
+- **Early Detection**: Identifies anomalies in daily business metrics before they become critical issues
+- **Data-Driven Insights**: Uses machine learning (Prophet) to separate normal variations from true anomalies
+- **Automated Monitoring**: One-click execution enables scheduled, hands-off monitoring
+- **Actionable Intelligence**: Clear visualizations and categorized anomalies (above/below expected ranges)
+
 ## Dataset Used
+
 - Dunnhumby - The Complete Journey dataset from Kaggle has been used to simulate the solution.
 - Link to Dataset - https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey/data
 
@@ -31,12 +38,6 @@ For certain households, demographic information as well as direct marketing cont
 9. causal_data: Contains causal marketing conditions like display type and mailer promotions per product per week.
 
 Note - For the scope of this project csv has been downloaded and uploaded to Databricks to create static tables. However in real-life scenario we will pull the data on regular intervals from SnowFlake.
-
-### Business Value
-- **Early Detection**: Identifies anomalies in daily business metrics before they become critical issues
-- **Data-Driven Insights**: Uses machine learning (Prophet) to separate normal variations from true anomalies
-- **Automated Monitoring**: One-click execution enables scheduled, hands-off monitoring
-- **Actionable Intelligence**: Clear visualizations and categorized anomalies (above/below expected ranges)
 
 ---
 
