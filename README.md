@@ -4,11 +4,6 @@
 
 This solution provides **automated anomaly detection** for retail operations using advanced time-series forecasting. It identifies unusual patterns in sales, discounts, and promotional activities to help leadership make data-driven decisions and quickly respond to business irregularities.
 
-## Link to Databricks Notebooks
-
-- Exploration Notebook - https://dbc-4251581d-00b5.cloud.databricks.com/browse/folders/2605591873519754?o=2550864755770524
-- Production Ready Notebook - https://dbc-4251581d-00b5.cloud.databricks.com/browse/folders/2605591873519754?o=2550864755770524
-
 ## Dataset Used
 - Dunnhumby - The Complete Journey dataset from Kaggle has been used to simulate the solution.
 - Link to Dataset - https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey/data
